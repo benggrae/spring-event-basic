@@ -1,0 +1,3 @@
+2023-03-03 09:30:50,047 WARN  [DefaultSoapUICore] Missing folder [/Users/byounghee.kim/ext] for external libraries
+2023-03-03 09:30:50,643 INFO  [DefaultSoapUICore] initialized soapui-settings from [/Users/byounghee.kim/soapui-settings.xml]
+2023-03-03 09:30:51,940 INFO  [WorkspaceImpl] Loading workspace from [/Users/byounghee.kim/intellij-soapui-workspace.xml]
